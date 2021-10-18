@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_start_programming/01_start_programming.iml" filepath="$PROJECT_DIR$/01_start_programming/01_start_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_types_and_operators/02_types_and_operators.iml" filepath="$PROJECT_DIR$/02_types_and_operators/02_types_and_operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_classes_and_objects/03_classes_and_objects.iml" filepath="$PROJECT_DIR$/03_classes_and_objects/03_classes_and_objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_control_instructions/04_control_instructions.iml" filepath="$PROJECT_DIR$/04_control_instructions/04_control_instructions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_arrays/05_arrays.iml" filepath="$PROJECT_DIR$/05_arrays/05_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_inheritance/06_inheritance.iml" filepath="$PROJECT_DIR$/06_inheritance/06_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/book_vasiliev.iml" filepath="$PROJECT_DIR$/.idea/book_vasiliev.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,6 +1,6 @@
 package UsingInterfaceApplication;
 
-public class MyClass implements MyInterface {
+class MyClass implements MyInterface {
 
     @Override
     public int getNumber(double x) {

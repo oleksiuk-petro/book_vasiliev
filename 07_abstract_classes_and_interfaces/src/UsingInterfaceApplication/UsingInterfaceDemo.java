@@ -1,6 +1,6 @@
 package UsingInterfaceApplication;
 
-public class UsingInterfaceDemo {
+class UsingInterfaceDemo {
 
     public static void main(String[] args) {
         MyClass obj = new MyClass();
